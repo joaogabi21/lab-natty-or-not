@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A utilização de IAs para a propragação de Fake News
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Nesse projeto, foi utilizado a plataforma ElevenLabs para criar um aúdio utilizando uma IA que encena uma abertura de jornal noticiário.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Eleven Labs
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A criação foi feita de forma bem simples, apenas criando um aúdio simulando uma abertura de jornal, relatando sobre o tema das Fake News e a participação da Inteligência Artificial nesse cenário.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi algo surpreendente e bem realista, pois é a primeira vez que utilizo na prática uma IA para gerar aúdios e senti que é uma ferramente bastante interessante para futuros usos.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi muito legal ter participado desse desafio, deu pra experimentar um pouco do que as IAs podem fazer e estou empolgado para saber até que ponto a tecnologia chegará.
 ```
 
 ### Exemplos e Insigths
